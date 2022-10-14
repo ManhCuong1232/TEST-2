@@ -1,0 +1,10 @@
+.bg-img-1{
+   width: 100%;
+    background-image: url(../images/Bg-header.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mobie{
+    display: none;
+}
